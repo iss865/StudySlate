@@ -1,5 +1,5 @@
 {
-  "name": "pepBoard",
+  "name": "StudySlate",
   "version": "1.0.0",
   "description": "",
   "main": "express.js",
@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon express"
+    "start": "node express.js"
   },
   "repository": {
     "type": "git",
@@ -23,3 +23,4 @@
   },
   "homepage": "https://github.com/Pep-DEV101/PepBoard#readme"
 }
+
